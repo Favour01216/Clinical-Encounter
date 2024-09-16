@@ -35,3 +35,9 @@ This project is a basic application to manage clinical encounter notes, enabling
 
 - Open the project in your preferred C# IDE (e.g., Visual Studio).
 - Build and run the application to start managing clinical encounter notes.
+
+## View
+
+![image](images/P5.png)
+![image](images/P5-list.png)
+![image](images/P5-finalpng.png)
